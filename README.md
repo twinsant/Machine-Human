@@ -14,4 +14,4 @@
 print "Who am I?"
 ```
 
-脑洞大开的项目创始人 [中二大叔](twinsant.com)
+脑洞大开的项目创始人 [中二大叔](http://twinsant.com)

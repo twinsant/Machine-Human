@@ -16,6 +16,11 @@
 print "Who am I?"
 ```
 
+* 第一章 《机器人的自我认知》
+
+> <img width="512" alt="image" src="https://user-images.githubusercontent.com/299586/228710202-09a9aa81-437c-4cfe-8ec6-54c7e3241c65.png">
+
+
 作者：ChatGPT
 
 助手/编辑：元宇宙胖大叔
